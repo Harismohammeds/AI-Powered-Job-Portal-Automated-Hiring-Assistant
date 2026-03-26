@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "job_id": "k1a2b3c4-d5e6-4f7g-8h9i-0j1k2l3m4n5o",
+    "source": "Zecpath External Ads",
+    "posted_at": "2026-03-24T12:00:00Z"
+  },
+  "job_details": {
+    "title": "Digital Marketing Lead",
+    "company": "GrowthBox E-commerce",
+    "location": "New York, NY",
+    "is_remote": false,
+    "job_type": "Full-time",
+    "salary_range": {
+      "min": 120000,
+      "max": 160000,
+      "currency": "USD",
+      "frequency": "Yearly"
+    }
+  },
+  "description": "GrowthBox is looking for a metrics-driven Digital Marketing Lead to oversee our global marketing engine. You will own the strategy for customer acquisition, brand awareness, and retention across all primary channels.",
+  "responsibilities": [
+    "Manage an annual marketing budget of $2M+.",
+    "Develop and execute end-to-end multi-channel campaigns (SEO/SEM, Social, Email).",
+    "Conduct deep-dive A/B testing and cohort analysis to improve CAC and LTV metrics.",
+    "Collaborate with product and data teams to build cross-functional growth experiments."
+  ],
+  "requirements": {
+    "skills": {
+      "hard_skills": [
+        { "name": "Google Ads / SEO", "is_required": true, "proficiency": "Expert" },
+        { "name": "Content Strategy", "is_required": true, "proficiency": "Advanced" },
+        { "name": "SQL / Data Visualization (Tableau)", "is_required": false, "proficiency": "Intermediate" },
+        { "name": "MarTech Stack implementation", "is_required": true, "proficiency": "Advanced" }
+      ],
+      "soft_skills": [
+        "Data-driven storytelling",
+        "Team leadership",
+        "Strategic negotiation"
+      ]
+    },
+    "experience": {
+      "min_years": 7,
+      "industry_background": "E-commerce or High-Growth Startup"
+    },
+    "education": {
+      "min_degree": "Bachelor's Degree",
+      "field": "Marketing, Business, or Communications"
+    }
+  }
+}

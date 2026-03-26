@@ -1,0 +1,99 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Resume Data Entity",
+  "description": "A structured representation of a candidate's resume for AI parsing and matching.",
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "candidate_id": { "type": "string", "format": "uuid" },
+        "source": { "type": "string" },
+        "parsed_at": { "type": "string", "format": "date-time" },
+        "language": { "type": "string", "default": "en" }
+      },
+      "required": ["candidate_id", "parsed_at"]
+    },
+    "profile": {
+      "type": "object",
+      "properties": {
+        "full_name": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "phone": { "type": "string" },
+        "location": { "type": "string" },
+        "links": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "platform": { "type": "string" },
+              "url": { "type": "string", "format": "uri" }
+            }
+          }
+        }
+      },
+      "required": ["full_name", "email"]
+    },
+    "summary": { "type": "string" },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "proficiency": { "type": "string", "enum": ["Beginner", "Intermediate", "Advanced", "Expert"] },
+          "category": { "type": "string" },
+          "years_of_experience": { "type": "number", "minimum": 0 }
+        },
+        "required": ["name"]
+      }
+    },
+    "experience": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "job_title": { "type": "string" },
+          "company": { "type": "string" },
+          "location": { "type": "string" },
+          "start_date": { "type": "string" },
+          "end_date": { "type": "string" },
+          "is_current": { "type": "boolean" },
+          "responsibilities": { "type": "array", "items": { "type": "string" } },
+          "achievements": { "type": "array", "items": { "type": "string" } }
+        },
+        "required": ["job_title", "company", "start_date"]
+      }
+    },
+    "education": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "degree": { "type": "string" },
+          "institution": { "type": "string" },
+          "field_of_study": { "type": "string" },
+          "start_date": { "type": "string" },
+          "end_date": { "type": "string" },
+          "gpa": { "type": "string" }
+        },
+        "required": ["degree", "institution"]
+      }
+    },
+    "certifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "issuing_organization": { "type": "string" },
+          "issue_date": { "type": "string" },
+          "expiry_date": { "type": "string" },
+          "url": { "type": "string", "format": "uri" }
+        },
+        "required": ["name"]
+      }
+    }
+  },
+  "required": ["metadata", "profile", "skills", "experience"]
+}

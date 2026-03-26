@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "candidate_id": "c1a2b3c4-d5e6-4f7g-8h9i-0j1k2l3m4n5o",
+    "source": "LinkedIn",
+    "parsed_at": "2026-03-24T10:00:00Z",
+    "language": "en"
+  },
+  "profile": {
+    "full_name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "phone": "+1-555-010-9988",
+    "location": "San Francisco, CA",
+    "links": [
+      { "platform": "GitHub", "url": "https://github.com/alicej-ai" },
+      { "platform": "LinkedIn", "url": "https://linkedin.com/in/alicejohnson" }
+    ]
+  },
+  "summary": "Innovative AI Engineer with 5+ years of experience in developing and deploying large-scale NLP models and computer vision systems. Proven track record in optimizing model performance for real-time applications.",
+  "skills": [
+    { "name": "Python", "proficiency": "Expert", "category": "Programming Languages", "years_of_experience": 6 },
+    { "name": "PyTorch", "proficiency": "Expert", "category": "Frameworks", "years_of_experience": 4 },
+    { "name": "TensorFlow", "proficiency": "Intermediate", "category": "Frameworks", "years_of_experience": 2 },
+    { "name": "Natural Language Processing", "proficiency": "Expert", "category": "Domain Expertise", "years_of_experience": 5 },
+    { "name": "Docker", "proficiency": "Intermediate", "category": "Tools", "years_of_experience": 3 }
+  ],
+  "experience": [
+    {
+      "job_title": "Senior AI Engineer",
+      "company": "NeuralPath Innovations",
+      "location": "Palo Alto, CA",
+      "start_date": "2022-06-01",
+      "end_date": "Present",
+      "is_current": true,
+      "responsibilities": [
+        "Leading a team of 4 researchers in developing multi-modal foundation models.",
+        "Architecting distributed training pipelines for models with 10B+ parameters."
+      ],
+      "achievements": [
+        "Reduced inference latency by 45% using TensorRT optimization.",
+        "Improved model F1 score by 12% for the core sentiment analysis product."
+      ]
+    },
+    {
+      "job_title": "ML Researcher",
+      "company": "DataVibe Systems",
+      "location": "Remote",
+      "start_date": "2020-01-15",
+      "end_date": "2022-05-30",
+      "is_current": false,
+      "responsibilities": [
+        "Conducted R&D on GANs for synthetic data generation.",
+        "Integrated ML models into the existing backend REST APIs using FastAPI."
+      ],
+      "achievements": [
+        "Published 2 papers at CVPR and ICML during tenure.",
+        "Reduced data annotation costs by 30% using active learning techniques."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Artificial Intelligence",
+      "institution": "Stanford University",
+      "field_of_study": "Computer Science",
+      "start_date": "2018-09-01",
+      "end_date": "2020-06-01",
+      "gpa": "3.9/4.0"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Machine Learning – Specialty",
+      "issuing_organization": "Amazon Web Services",
+      "issue_date": "2021-08-15",
+      "url": "https://aws.amazon.com/certification"
+    }
+  ]
+}

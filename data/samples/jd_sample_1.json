@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "job_id": "j1a2b3c4-d5e6-4f7g-8h9i-0j1k2l3m4n5o",
+    "source": "Zecpath Internal Portal",
+    "posted_at": "2026-03-25T15:00:00Z",
+    "recruiter_id": "r9988-5544"
+  },
+  "job_details": {
+    "title": "Senior AI/ML Engineer (Generative AI)",
+    "company": "ScaleUp AI Labs",
+    "location": "San Francisco, CA",
+    "is_remote": true,
+    "job_type": "Full-time",
+    "salary_range": {
+      "min": 180000,
+      "max": 250000,
+      "currency": "USD",
+      "frequency": "Yearly"
+    }
+  },
+  "description": "We are seeking a visionary AI Engineer to join our core research team. You will be responsible for pushing the boundaries of generative AI and large language models (LLMs) to build next-generation enterprise solutions.",
+  "responsibilities": [
+    "Fine-tune state-of-the-art LLMs (Llama, GPT, Mistral) for specific domain tasks.",
+    "Develop RAG (Retrieval-Augmented Generation) pipelines for internal document query systems.",
+    "Optimize model deployment for high-concurrency production environments.",
+    "Stay updated on the latest research and implement cutting-edge papers relevant to business needs."
+  ],
+  "requirements": {
+    "skills": {
+      "hard_skills": [
+        { "name": "Python", "is_required": true, "proficiency": "Expert" },
+        { "name": "PyTorch", "is_required": true, "proficiency": "Expert" },
+        { "name": "LLM Fine-tuning", "is_required": true, "proficiency": "Advanced" },
+        { "name": "LangChain", "is_required": false, "proficiency": "Intermediate" },
+        { "name": "C++", "is_required": false, "proficiency": "Mid-level" }
+      ],
+      "soft_skills": [
+        "Analytical thinking",
+        "Excellent technical communication",
+        "Peer mentorship"
+      ]
+    },
+    "experience": {
+      "min_years": 5,
+      "industry_background": "Deep Learning / Natural Language Processing"
+    },
+    "education": {
+      "min_degree": "Master's Degree",
+      "field": "Computer Science or related discipline"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "candidate_id": "b2c3d4e5-f6g7-8h9i-0j1k-2l3m4n5o6p7q",
+    "source": "Corporate Website",
+    "parsed_at": "2026-03-23T09:15:00Z",
+    "language": "en"
+  },
+  "profile": {
+    "full_name": "Marcus Chen",
+    "email": "m.chen@example.com",
+    "phone": "+44-20-7946-0123",
+    "location": "London, UK",
+    "links": [
+      { "platform": "LinkedIn", "url": "https://linkedin.com/in/marcus-chen" }
+    ]
+  },
+  "summary": "Agile Project Manager with over 8 years of experience leading cross-functional teams in the fintech space. Expert in risk management, budget optimization, and stakeholder communication.",
+  "skills": [
+    { "name": "Agile Methodologies", "proficiency": "Expert", "category": "Project Management", "years_of_experience": 8 },
+    { "name": "Jira", "proficiency": "Expert", "category": "Tools", "years_of_experience": 7 },
+    { "name": "Scrum", "proficiency": "Advanced", "category": "Frameworks", "years_of_experience": 6 },
+    { "name": "Stakeholder Management", "proficiency": "Expert", "category": "Soft Skills", "years_of_experience": 8 },
+    { "name": "Risk Analysis", "proficiency": "Advanced", "category": "Project Management", "years_of_experience": 5 }
+  ],
+  "experience": [
+    {
+      "job_title": "Project Manager",
+      "company": "FinStream Solutions",
+      "location": "London, UK",
+      "start_date": "2021-03-01",
+      "end_date": "Present",
+      "is_current": true,
+      "responsibilities": [
+        "Managing a portfolio of 5-7 parallel software development projects.",
+        "Facilitating sprint planning, retrospectives, and daily stand-ups."
+      ],
+      "achievements": [
+        "Delivered the new mobile payment Gateway project 2 weeks ahead of schedule.",
+        "Successfully optimized the team resource allocation, increasing sprint velocity by 25%."
+      ]
+    },
+    {
+      "job_title": "Associate Project Manager",
+      "company": "Legacy Bank Group",
+      "location": "London, UK",
+      "start_date": "2018-01-10",
+      "end_date": "2021-02-28",
+      "is_current": false,
+      "responsibilities": [
+        "Coordinated with vendor partners for API integration projects.",
+        "Maintained project documentation and tracking of KPIs."
+      ],
+      "achievements": [
+        "Received 'Employee of the Quarter' award for leading the internal compliance audit project.",
+        "Onboarded 12 new team members into the Agile ecosystem."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Business Administration",
+      "institution": "University of Oxford",
+      "field_of_study": "Operations Research",
+      "start_date": "2014-09-01",
+      "end_date": "2017-06-01"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "PMP - Project Management Professional",
+      "issuing_organization": "Project Management Institute (PMI)",
+      "issue_date": "2020-11-20",
+      "url": "https://pmi.org/pmp"
+    },
+    {
+      "name": "Certified Scrum Master (CSM)",
+      "issuing_organization": "Scrum Alliance",
+      "issue_date": "2019-05-15"
+    }
+  ]
+}

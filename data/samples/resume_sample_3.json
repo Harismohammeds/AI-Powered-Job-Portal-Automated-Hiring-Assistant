@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "candidate_id": "d3e4f5g6-h7i8-9j0k-1l2m-3n4o5p6q7r8s",
+    "source": "Glassdoor",
+    "parsed_at": "2026-03-22T14:30:00Z",
+    "language": "en"
+  },
+  "profile": {
+    "full_name": "Siddharth Rao",
+    "email": "sid.rao@example.com",
+    "phone": "+91-98765-43210",
+    "location": "Bengaluru, India",
+    "links": [
+      { "platform": "GitHub", "url": "https://github.com/developer-sid" },
+      { "platform": "Stack Overflow", "url": "https://stackoverflow.com/users/sid-rao" }
+    ]
+  },
+  "summary": "Full stack-capable Backend Developer with specializing in Java and Spring Boot. Strong expertise in microservices architecture, cloud infrastructure, and distributed databases.",
+  "skills": [
+    { "name": "Java", "proficiency": "Expert", "category": "Programming Languages", "years_of_experience": 5 },
+    { "name": "Spring Boot", "proficiency": "Expert", "category": "Frameworks", "years_of_experience": 4 },
+    { "name": "Kubernetes", "proficiency": "Intermediate", "category": "Cloud & Infrastructure", "years_of_experience": 2 },
+    { "name": "PostgreSQL", "proficiency": "Advanced", "category": "Databases", "years_of_experience": 5 },
+    { "name": "Go", "proficiency": "Beginner", "category": "Programming Languages", "years_of_experience": 1 }
+  ],
+  "experience": [
+    {
+      "job_title": "Senior Software Engineer (Backend)",
+      "company": "CloudNine Networks",
+      "location": "Bengaluru, India",
+      "start_date": "2022-01-01",
+      "end_date": "Present",
+      "is_current": true,
+      "responsibilities": [
+        "Developing core backend APIs for the SaaS observability platform.",
+        "Managing production clusters in AWS EKS."
+      ],
+      "achievements": [
+        "Migrated the monolithic API to a microservices architecture, improving scalability by 5x.",
+        "Built a real-time data streaming pipeline using Kafka for log ingestion."
+      ]
+    },
+    {
+      "job_title": "Software Engineer",
+      "company": "FastTech Fin",
+      "location": "Hyderabad, India",
+      "start_date": "2019-07-01",
+      "end_date": "2021-12-31",
+      "is_current": false,
+      "responsibilities": [
+        "Developed high-throughput transaction processing systems.",
+        "Created unit and integration test suites using JUnit and Mockito."
+      ],
+      "achievements": [
+        "Optimized database queries, reducing average response time from 200ms to 40ms.",
+        "Implemented secure OAuth2 authentication for the mobile client APIs."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Information Technology",
+      "institution": "Indian Institute of Technology (IIT) Madras",
+      "field_of_study": "Information Technology",
+      "start_date": "2015-08-01",
+      "end_date": "2019-05-01",
+      "gpa": "9.2/10"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Application Developer (CKAD)",
+      "issuing_organization": "The Linux Foundation",
+      "issue_date": "2023-01-15"
+    }
+  ]
+}

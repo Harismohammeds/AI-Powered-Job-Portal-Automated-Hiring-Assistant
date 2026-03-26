@@ -1,0 +1,82 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Job Description Data Entity",
+  "description": "A structured representation of a job posting for AI matching and screening.",
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "job_id": { "type": "string", "format": "uuid" },
+        "source": { "type": "string" },
+        "posted_at": { "type": "string", "format": "date-time" },
+        "recruiter_id": { "type": "string" }
+      },
+      "required": ["job_id", "posted_at"]
+    },
+    "job_details": {
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "company": { "type": "string" },
+        "location": { "type": "string" },
+        "is_remote": { "type": "boolean" },
+        "job_type": { "type": "string", "enum": ["Full-time", "Contract", "Freelance", "Internship", "Part-time"] },
+        "salary_range": {
+          "type": "object",
+          "properties": {
+            "min": { "type": "number" },
+            "max": { "type": "number" },
+            "currency": { "type": "string", "default": "USD" },
+            "frequency": { "type": "string", "default": "Yearly" }
+          }
+        }
+      },
+      "required": ["title", "company"]
+    },
+    "description": { "type": "string" },
+    "responsibilities": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "requirements": {
+      "type": "object",
+      "properties": {
+        "skills": {
+          "type": "object",
+          "properties": {
+            "hard_skills": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "name": { "type": "string" },
+                  "is_required": { "type": "boolean", "default": true },
+                  "proficiency": { "type": "string" }
+                },
+                "required": ["name"]
+              }
+            },
+            "soft_skills": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "experience": {
+          "type": "object",
+          "properties": {
+            "min_years": { "type": "number", "minimum": 0 },
+            "industry_background": { "type": "string" }
+          }
+        },
+        "education": {
+          "type": "object",
+          "properties": {
+            "min_degree": { "type": "string" },
+            "field": { "type": "string" }
+          }
+        }
+      },
+      "required": ["skills", "experience"]
+    }
+  },
+  "required": ["metadata", "job_details", "requirements"]
+}
