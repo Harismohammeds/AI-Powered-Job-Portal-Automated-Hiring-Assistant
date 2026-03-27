@@ -1,0 +1,44 @@
+{
+  "job_title": "Clinical Data Reviewer",
+  "career_level": "Mid Level",
+  "category": "Clinical Research",
+  "job_summary": "A Clinical Data Reviewer analyzes clinical trial data to ensure accuracy, consistency, and compliance with protocols.",
+  "key_responsibilities": [
+    "Review clinical data for discrepancies and errors",
+    "Validate data against source documents",
+    "Perform data cleaning and query management",
+    "Collaborate with data management and biostatistics teams",
+    "Ensure compliance with Good Clinical Practice"
+  ],
+  "qualifications": [
+    "Degree in Life Sciences / Biostatistics / Pharmacy"
+  ],
+  "skills": [
+    "Data analysis and interpretation",
+    "Attention to detail",
+    "Knowledge of clinical databases"
+  ],
+  "work_environment": [
+    "CROs, pharma companies, remote setups"
+  ],
+  "career_path": [
+    "Data Reviewer → Clinical Data Manager → Biostatistician"
+  ],
+  "skills_required": [
+    "GCP",
+    "GCP compliance",
+    "attention to detail",
+    "collaborate with data management and biostatistics teams",
+    "data analysis and interpretation",
+    "knowledge of clinical databases",
+    "perform data cleaning and query management",
+    "review clinical data for discrepancies and errors",
+    "validate data against source documents"
+  ],
+  "education_required": [
+    "Biostatistics",
+    "Degree in",
+    "Life Sciences"
+  ],
+  "experience_required": "Not specified"
+}

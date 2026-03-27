@@ -1,0 +1,7 @@
+John Doe AI Engineer at TechCorp 
+SUMMARY
+Experienced AI engineer with 5 years in NLP and Computer Vision. 
+EXPERIENCE
+Company | Role TechCorp | Senior AI Engineer 
+SKILLS
+Python, TensorFlow, PyTorch

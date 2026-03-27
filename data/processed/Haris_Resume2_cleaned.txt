@@ -1,0 +1,23 @@
+HARIS MOHAMMED Trivandrum | harissaif2003@gmail.com | +91 8921785723| linkedin.com/in/harissmohammed PROFESSIONAL 
+SUMMARY
+Data Science graduate with hands on 
+EXPERIENCE
+in Machine Learning, Data Analysis, and Python based model development. Skilled in SQL, Pandas, NumPy, Scikit learn, and Data Visualization tools like Power BI and Tableau. Seeking an entry level Data Analyst / AI ML Engineer role to apply data driven problem solving 
+SKILLS
+. INTERNSHIP / 
+EXPERIENCE
+Data Science & AI Scope India Technopark Trivandrum | (Ongoing) July 2025– Developed and analysed datasets using Python, Pandas, and NumPy for data cleaning, preprocessing, and exploratory data analysis. Built and evaluated machine learning models using algorithms such as Linear Regression, Logistic Regression, and Decision Trees. Worked on data visualization using Matplotlib and Seaborn to present insights clearly. Implemented end to end data science 
+PROJECTS
+, including data collection, feature engineering, model training, and performance evaluation. Collaborated with team members to interpret results and improve model accuracy and efficiency 
+EDUCATION
+BSc Computer Science Bachelor of Science in Computer Science University of Kerala, Trivandrum Graduated: 2025 Higher Secondary 
+EDUCATION
+Higher Secondary 
+EDUCATION
+from Govt V&HSS Vellanad(2020 2022) Secondary School Examination Secondary School Examination from Lourdes Mount Higher Secondary School Vattappara(2020) 
+SKILLS
+Programming Languages : Python, Html, Css, JavaScript Data Analytics Tools : Pandas, NumPy, Scikit learn Data Science : Machine Learning Python Frameworks : Django Database : Sql(Mysql, Sqlite) Data Visualisation : Power BI, Tableau, Matplotlib, Seaborn 
+PROJECTS
+Major Project – Forensic AI (2024–2025) Developed an AI based forensic analysis system Used Python for data processing and analysis Focused on pattern detection and investigation support 
+CERTIFICATIONS
+Professional Certificate in Data Science & AI – Scope India, Technopark Trivandrum Declaration I hereby declare that the information furnished above is true and correct to the best of my knowledge and belief. Haris Mohammed
