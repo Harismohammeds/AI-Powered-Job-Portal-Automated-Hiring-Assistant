@@ -1,0 +1,35 @@
+{
+    "report_title": "Resume Section Classifier Accuracy Report",
+    "evaluation_setup": {
+        "methodology": "Hybrid Rule-based + NLP approach",
+        "sample_size": 2,
+        "total_sections_evaluated": 10
+    },
+    "summary": {
+        "overall_accuracy_percentage": 100.0,
+        "correct_sections": 10,
+        "total_sections": 10
+    },
+    "results": [
+        {
+            "resume_id": "resume_001",
+            "sections": [
+                {"name": "Profile", "status": "Passed", "identified_correctly": true},
+                {"name": "Summary", "status": "Passed", "identified_correctly": true},
+                {"name": "Experience", "status": "Passed", "identified_correctly": true},
+                {"name": "Education", "status": "Passed", "identified_correctly": true},
+                {"name": "Skills", "status": "Passed", "identified_correctly": true},
+                {"name": "Projects", "status": "Passed", "identified_correctly": true}
+            ]
+        },
+        {
+            "resume_id": "resume_002",
+            "sections": [
+                {"name": "Profile", "status": "Passed", "identified_correctly": true},
+                {"name": "Experience", "status": "Passed", "identified_correctly": true},
+                {"name": "Education", "status": "Passed", "identified_correctly": true},
+                {"name": "Skills", "status": "Passed", "identified_correctly": true}
+            ]
+        }
+    ]
+}

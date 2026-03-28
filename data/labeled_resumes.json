@@ -1,0 +1,24 @@
+[
+    {
+        "id": "resume_001",
+        "raw_text": "Alice Smith\nData Scientist\nSUMMARY\nData Scientist with 3+ years of experience in ML.\nEXPERIENCE\nData Scientist at OpenAI\nJan 2021 - Present\n- Built LLMs.\nEDUCATION\nBS in Computer Science, Stanford University\nSKILLS\nPython, TensorFlow, PyTorch\nPROJECTS\nAlphaZero Clone\nReplicated AlphaZero from scratch.",
+        "expected_sections": {
+            "profile": "Alice Smith\nData Scientist",
+            "summary": "Data Scientist with 3+ years of experience in ML.",
+            "experience": "Data Scientist at OpenAI\nJan 2021 - Present\n- Built LLMs.",
+            "education": "BS in Computer Science, Stanford University",
+            "skills": "Python, TensorFlow, PyTorch",
+            "projects": "AlphaZero Clone\nReplicated AlphaZero from scratch."
+        }
+    },
+    {
+        "id": "resume_002",
+        "raw_text": "Bob Jones\nDeveloper\nWORK HISTORY\nSoftware Engineer at Google\n2018 - 2022\n- Maintined Search.\nACADEMIC BACKGROUND\nMS Computer Science, MIT\nCORE COMPETENCIES\nJava, C++, Go",
+        "expected_sections": {
+            "profile": "Bob Jones\nDeveloper",
+            "experience": "Software Engineer at Google\n2018 - 2022\n- Maintined Search.",
+            "education": "MS Computer Science, MIT",
+            "skills": "Java, C++, Go"
+        }
+    }
+]

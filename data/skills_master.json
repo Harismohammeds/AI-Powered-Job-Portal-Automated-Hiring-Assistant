@@ -1,0 +1,25 @@
+{
+    "skills": {
+        "Python": {"synonyms": ["python3", "python2", "py"], "category": "tech"},
+        "JavaScript": {"synonyms": ["js", "es6", "ecmascript"], "category": "tech"},
+        "React": {"synonyms": ["reactjs", "react.js"], "category": "tech"},
+        "Node.js": {"synonyms": ["node", "nodejs"], "category": "tech"},
+        "MongoDB": {"synonyms": ["mongo"], "category": "tech"},
+        "Express.js": {"synonyms": ["express", "expressjs"], "category": "tech"},
+        "Angular": {"synonyms": ["angularjs", "angular.js"], "category": "tech"},
+        "Java": {"synonyms": ["j2ee", "core java"], "category": "tech"},
+        "C++": {"synonyms": ["cpp", "c plus plus"], "category": "tech"},
+        "C#": {"synonyms": ["csharp", "c sharp"], "category": "tech"},
+        "SQL": {"synonyms": ["mysql", "postgresql", "postgres", "plsql"], "category": "tech"},
+        "AWS": {"synonyms": ["amazon web services", "ec2", "s3"], "category": "tech"},
+        "Project Management": {"synonyms": ["pmp", "agile", "scrum", "kanban"], "category": "business"},
+        "Data Analysis": {"synonyms": ["data analytics", "data science", "statistics"], "category": "business"},
+        "Machine Learning": {"synonyms": ["ml", "deep learning", "dl", "artificial intelligence", "ai"], "category": "tech"},
+        "UI/UX Design": {"synonyms": ["ui", "ux", "user interface", "user experience", "figma", "sketch"], "category": "creative"}
+    },
+    "stacks": {
+        "MERN": ["MongoDB", "Express.js", "React", "Node.js"],
+        "MEAN": ["MongoDB", "Express.js", "Angular", "Node.js"],
+        "LAMP": ["Linux", "Apache", "MySQL", "PHP"]
+    }
+}
