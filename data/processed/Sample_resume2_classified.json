@@ -4,5 +4,82 @@
     "experience": "Jan 20XX \u2014 present | Phlebotomist Lamna Healthcare This is the place for a\nJan 20XX \u2014 present | Phlebotomist Lamna Healthcare This is the place for a",
     "education": "Aug 20XX \u2014 May 20XX | Associates in Phlebotomy Bellows College Completed courses in Introduction to Phlebotomy, Venipuncture Techniques, Capillary Puncture Techniques, Laboratory Procedures and Equipment, and Medical Law and Ethics as part of associate degree in Phlebotomy program.\nAug 20XX \u2014 May 20XX | Associates in Phlebotomy Bellows College Completed courses in Introduction to Phlebotomy, Venipuncture Techniques, Capillary Puncture Techniques, Laboratory Procedures and Equipment, and Medical Law and Ethics as part of associate degree in Phlebotomy program.",
     "skills": "& ABILITIES Performing venipuncture and capillary puncture procedures Processing blood samples according to established laboratory protocols Familiar with medical terminology and patient privacy regulations. AWARDS Recognized by supervisors and colleagues for excellent patient care and attention to detail. Successfully completed certification in phlebotomy from a national health organization. Sheetal Parmar PHLEBOTOMIST 316.555.0136 | sheetal@example.com | PROFESSIONAL\n& ABILITIES Performing venipuncture and capillary puncture procedures Processing blood samples according to established laboratory protocols Familiar with medical terminology and patient privacy regulations. AWARDS Recognized by supervisors and colleagues for excellent patient care and attention to detail. Successfully completed certification in phlebotomy from a national health organization. |",
-    "extracted_skills_normalized": []
+    "extracted_skills": [
+        {
+            "skill": "Medical Terminology",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Phlebotomy",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Venipuncture",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        }
+    ],
+    "structured_experience": [
+        {
+            "start_date": "2020",
+            "end_date": "present",
+            "is_current": true,
+            "duration_months": 74,
+            "company": "Unknown",
+            "title": "Jan"
+        },
+        {
+            "start_date": "2020",
+            "end_date": "present",
+            "is_current": true,
+            "duration_months": 74,
+            "company": "Jan",
+            "title": "is the place for a"
+        }
+    ],
+    "experience_metrics": {
+        "total_experience_months": 148,
+        "total_experience_years": 12.3,
+        "gaps_detected": [],
+        "overlaps_detected": [
+            {
+                "overlap_duration_months": 74,
+                "overlapping_roles": [
+                    "Jan",
+                    "is the place for a"
+                ]
+            }
+        ]
+    },
+    "experience_relevance": {
+        "total_relevance_score": 0.0,
+        "relevant_experience_months": 0,
+        "matching_roles": [],
+        "target_role_assumed": "Personal Trainer"
+    },
+    "extracted_skills_normalized": [
+        {
+            "skill": "Medical Terminology",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Phlebotomy",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Venipuncture",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        }
+    ]
 }

@@ -1,0 +1,23 @@
+Risk-Based Monitoring CRA (RBM
+CRA)
+Job Summary
+A Risk-Based Monitoring CRA focuses on centralized and risk-driven monitoring approaches
+to identify, assess, and mitigate risks in clinical trials.
+Key Responsibilities
+• Perform centralized monitoring using statistical and data-driven tools
+• Identify high-risk sites, patients, and data points
+• Reduce reliance on 100% Source Data Verification (SDV)
+• Monitor Key Risk Indicators (KRIs) and Key Performance Indicators (KPIs)
+• Ensure compliance with Good Clinical Practice
+• Collaborate with data management and biostatistics teams
+Qualifications
+• Degree in Life Sciences / Biostatistics / Pharmacy
+• Knowledge of risk-based monitoring tools
+Skills
+• Data analytics and interpretation
+• Risk assessment
+• Use of EDC/CTMS systems
+Work Environment
+• CROs, pharma companies (remote/hybrid)
+Career Path
+RBM CRA → Centralized Monitoring Lead → Risk Manager

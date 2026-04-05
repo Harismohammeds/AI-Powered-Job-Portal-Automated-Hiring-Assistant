@@ -20,8 +20,8 @@ def get_resumes_from_dir(directory='data/resumes/'):
         # Extract file extension
         _, ext = os.path.splitext(filename)
 
-        # Filter for .pdf and .docx extensions
-        if ext.lower() in ['.pdf', '.docx']:
+        # Filter for .pdf, .docx, and .txt extensions
+        if ext.lower() in ['.pdf', '.docx', '.txt']:
             resumes.append(os.path.abspath(os.path.join(directory, filename)))
 
     return resumes

@@ -1,0 +1,183 @@
+{
+    "Haris_Resume2_classified.json": {
+        "top_3_jd_matches": [
+            {
+                "job_title": "Clinical Data Associate",
+                "experience_score": 0.0,
+                "skill_score": 0.12,
+                "total_match_score": 0.05,
+                "matching_roles": []
+            },
+            {
+                "job_title": "Research Methodology Trainer",
+                "experience_score": 0.0,
+                "skill_score": 0.12,
+                "total_match_score": 0.05,
+                "matching_roles": []
+            },
+            {
+                "job_title": "Remote CRA (Virtual Monitoring)",
+                "experience_score": 0.0,
+                "skill_score": 0.11,
+                "total_match_score": 0.04,
+                "matching_roles": []
+            }
+        ]
+    },
+    "Moscow-Creative-Resume-Template_classified.json": {
+        "top_3_jd_matches": [
+            {
+                "job_title": "Clinical Research Coordinator (CRC)",
+                "experience_score": 0.0,
+                "skill_score": 0.0,
+                "total_match_score": 0.0,
+                "matching_roles": []
+            },
+            {
+                "job_title": "Junior Clinical Research Associate",
+                "experience_score": 0.0,
+                "skill_score": 0.0,
+                "total_match_score": 0.0,
+                "matching_roles": []
+            },
+            {
+                "job_title": "Site Management Associate (SMA)",
+                "experience_score": 0.0,
+                "skill_score": 0.0,
+                "total_match_score": 0.0,
+                "matching_roles": []
+            }
+        ]
+    },
+    "New_CRA_Resume_classified.json": {
+        "top_3_jd_matches": [
+            {
+                "job_title": "Oncology Clinical Research Associate",
+                "experience_score": 0.0,
+                "skill_score": 0.5,
+                "total_match_score": 0.2,
+                "matching_roles": []
+            },
+            {
+                "job_title": "Quality Assurance CRA (GCP Auditor)",
+                "experience_score": 0.0,
+                "skill_score": 0.33,
+                "total_match_score": 0.13,
+                "matching_roles": []
+            },
+            {
+                "job_title": "CRA Trainer",
+                "experience_score": 0.0,
+                "skill_score": 0.33,
+                "total_match_score": 0.13,
+                "matching_roles": []
+            }
+        ]
+    },
+    "Personal-trainer-resume-example-3_classified.json": {
+        "top_3_jd_matches": [
+            {
+                "job_title": "CRA Trainer",
+                "experience_score": 1.0,
+                "skill_score": 0.0,
+                "total_match_score": 0.6,
+                "matching_roles": [
+                    "American Employment History Personal Trainer"
+                ]
+            },
+            {
+                "job_title": "Research Methodology Trainer",
+                "experience_score": 1.0,
+                "skill_score": 0.0,
+                "total_match_score": 0.6,
+                "matching_roles": [
+                    "American Employment History Personal Trainer"
+                ]
+            },
+            {
+                "job_title": "Clinical Research Coordinator (CRC)",
+                "experience_score": 0.0,
+                "skill_score": 0.0,
+                "total_match_score": 0.0,
+                "matching_roles": []
+            }
+        ]
+    },
+    "Sample_resume2_classified.json": {
+        "top_3_jd_matches": [
+            {
+                "job_title": "Freelance CRA",
+                "experience_score": 0.8,
+                "skill_score": 0.0,
+                "total_match_score": 0.48,
+                "matching_roles": [
+                    "is the place for a"
+                ]
+            },
+            {
+                "job_title": "Pharmacovigilance CRA",
+                "experience_score": 0.0,
+                "skill_score": 0.12,
+                "total_match_score": 0.05,
+                "matching_roles": []
+            },
+            {
+                "job_title": "Clinical Research Coordinator (CRC)",
+                "experience_score": 0.0,
+                "skill_score": 0.0,
+                "total_match_score": 0.0,
+                "matching_roles": []
+            }
+        ]
+    },
+    "sample_resume_classified.json": {
+        "top_3_jd_matches": [
+            {
+                "job_title": "Clinical Research Coordinator (CRC)",
+                "experience_score": 0.0,
+                "skill_score": 0.0,
+                "total_match_score": 0.0,
+                "matching_roles": []
+            },
+            {
+                "job_title": "Junior Clinical Research Associate",
+                "experience_score": 0.0,
+                "skill_score": 0.0,
+                "total_match_score": 0.0,
+                "matching_roles": []
+            },
+            {
+                "job_title": "Site Management Associate (SMA)",
+                "experience_score": 0.0,
+                "skill_score": 0.0,
+                "total_match_score": 0.0,
+                "matching_roles": []
+            }
+        ]
+    },
+    "Sydney-Resume-Template-Modern_classified.json": {
+        "top_3_jd_matches": [
+            {
+                "job_title": "Clinical Research Coordinator (CRC)",
+                "experience_score": 0.0,
+                "skill_score": 0.0,
+                "total_match_score": 0.0,
+                "matching_roles": []
+            },
+            {
+                "job_title": "Junior Clinical Research Associate",
+                "experience_score": 0.0,
+                "skill_score": 0.0,
+                "total_match_score": 0.0,
+                "matching_roles": []
+            },
+            {
+                "job_title": "Site Management Associate (SMA)",
+                "experience_score": 0.0,
+                "skill_score": 0.0,
+                "total_match_score": 0.0,
+                "matching_roles": []
+            }
+        ]
+    }
+}

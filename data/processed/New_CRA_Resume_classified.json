@@ -1,0 +1,83 @@
+{
+    "profile": "Dr. Alice Smith CLINICAL RESEARCH ASSOCIATE",
+    "experience": "Senior CRA at PharmaCorp (2018 2024) Managed clinical trials for oncology drugs. Ensured compliance with GCP and medical regulations.",
+    "education": "Ph.D. in Biology, Stanford University",
+    "skills": "Clinical Research, GCP, Oncology, Python, SQL",
+    "certifications": "Certified Clinical Research Professional (CCRP)",
+    "extracted_skills": [
+        {
+            "skill": "Clinical Research",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "GCP",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Oncology",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Python",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "SQL",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "UI/UX Design",
+            "category": "creative",
+            "confidence": 0.6,
+            "match_type": "spelling_variation"
+        }
+    ],
+    "extracted_skills_normalized": [
+        {
+            "skill": "Clinical Research",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "GCP",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Oncology",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Python",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "SQL",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "UI/UX Design",
+            "category": "creative",
+            "confidence": 0.6,
+            "match_type": "spelling_variation"
+        }
+    ]
+}

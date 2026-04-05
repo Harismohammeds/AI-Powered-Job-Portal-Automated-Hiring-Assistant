@@ -1,6 +1,7 @@
 import re
 import spacy
 import logging
+from .skill_extractor import SkillExtractor
 
 logger = logging.getLogger(__name__)
 
@@ -44,6 +45,7 @@ class ResumeSectionClassifier:
             self.nlp = None
             
         self._compile_regexes()
+        self.skill_extractor = SkillExtractor()
 
     def _compile_regexes(self):
         self.compiled_rules = {}
@@ -81,7 +83,7 @@ class ResumeSectionClassifier:
 
     def segment(self, raw_text: str) -> dict:
         """
-        Segments raw resume text into classified sections.
+        Segments raw resume text into classified sections and extracts skills.
         """
         sections = {
             "profile": [],
@@ -111,7 +113,24 @@ class ResumeSectionClassifier:
                 sections[current_section].append(line)
                 
         # Post-process: Join lines back up
-        return {k: "\n".join(v) for k, v in sections.items() if v}
+        result = {k: "\n".join(v) for k, v in sections.items() if v}
+        
+        # Extract skills (prioritize the "skills" section if it exists, but also scan the whole text)
+        skills_text = result.get("skills", "")
+        # First extract from the skills section (higher confidence boost)
+        extracted_skills = self.skill_extractor.extract_skills(skills_text, section_context="skills")
+        
+        # Then extract from the entire text to catch scattered skills
+        general_skills = self.skill_extractor.extract_skills(raw_text, section_context="general")
+        
+        # Merge skills (deduplicate, keeping highest confidence)
+        skill_dict = {s['skill']: s for s in extracted_skills}
+        for s in general_skills:
+            if s['skill'] not in skill_dict or skill_dict[s['skill']]['confidence'] < s['confidence']:
+                skill_dict[s['skill']] = s
+                
+        result["extracted_skills"] = sorted(skill_dict.values(), key=lambda x: (-x['confidence'], x['skill']))
+        return result
         
 if __name__ == "__main__":
     # Quick test

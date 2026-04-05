@@ -1,0 +1,20 @@
+eClinical Systems Specialist
+Job Summary
+An eClinical Systems Specialist manages and supports digital platforms used in clinical trials,
+ensuring smooth data flow and system functionality.
+Key Responsibilities
+• Manage systems like EDC (Electronic Data Capture), CTMS, eTMF
+• Configure and maintain clinical trial software
+• Train staff on system usage
+• Ensure data integrity and system compliance
+• Troubleshoot technical issues
+Qualifications
+• Degree in Life Sciences / IT / Health Informatics
+Skills
+• Knowledge of clinical software systems
+• Technical troubleshooting
+• Data management
+Work Environment
+• CROs, pharma companies, health tech firms
+Career Path
+eClinical Specialist → Systems Manager → Digital Clinical Lead

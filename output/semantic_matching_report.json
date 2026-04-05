@@ -1,0 +1,584 @@
+{
+    "Haris_Resume2": {
+        "top_matches": [
+            {
+                "job_title": "AI-Driven Trial Monitoring Specialist",
+                "similarity_scores": {
+                    "skills": 0.2709,
+                    "experience": 0.4476,
+                    "projects": 0.4828,
+                    "overall": 0.4016
+                }
+            },
+            {
+                "job_title": "Clinical Data Associate",
+                "similarity_scores": {
+                    "skills": 0.156,
+                    "experience": 0.2566,
+                    "projects": 0.2509,
+                    "overall": 0.2253
+                }
+            },
+            {
+                "job_title": "Clinical Data Reviewer",
+                "similarity_scores": {
+                    "skills": 0.1114,
+                    "experience": 0.2215,
+                    "projects": 0.2907,
+                    "overall": 0.2023
+                }
+            }
+        ]
+    },
+    "Moscow-Creative-Resume-Template": {
+        "top_matches": []
+    },
+    "New_CRA_Resume": {
+        "top_matches": [
+            {
+                "job_title": "Oncology Clinical Research Associate",
+                "similarity_scores": {
+                    "skills": 0.5032,
+                    "experience": 0.6478,
+                    "projects": 0.0,
+                    "overall": 0.4749
+                }
+            },
+            {
+                "job_title": "CRA \u2013 CRO-Based",
+                "similarity_scores": {
+                    "skills": 0.4345,
+                    "experience": 0.6364,
+                    "projects": 0.0,
+                    "overall": 0.4486
+                }
+            },
+            {
+                "job_title": "Clinical Research Coordinator (CRC)",
+                "similarity_scores": {
+                    "skills": 0.4628,
+                    "experience": 0.5618,
+                    "projects": 0.0,
+                    "overall": 0.4197
+                }
+            },
+            {
+                "job_title": "Decentralized Trial CRA (DCT CRA)",
+                "similarity_scores": {
+                    "skills": 0.4478,
+                    "experience": 0.5627,
+                    "projects": 0.0,
+                    "overall": 0.4157
+                }
+            },
+            {
+                "job_title": "Site Clinical Research Associate (Site",
+                "similarity_scores": {
+                    "skills": 0.4332,
+                    "experience": 0.5273,
+                    "projects": 0.0,
+                    "overall": 0.3936
+                }
+            },
+            {
+                "job_title": "Senior Clinical Research Associate",
+                "similarity_scores": {
+                    "skills": 0.3631,
+                    "experience": 0.5556,
+                    "projects": 0.0,
+                    "overall": 0.3867
+                }
+            },
+            {
+                "job_title": "Quality Assurance CRA (GCP Auditor)",
+                "similarity_scores": {
+                    "skills": 0.2559,
+                    "experience": 0.6096,
+                    "projects": 0.0,
+                    "overall": 0.3816
+                }
+            },
+            {
+                "job_title": "Clinical Data Reviewer",
+                "similarity_scores": {
+                    "skills": 0.5301,
+                    "experience": 0.4336,
+                    "projects": 0.0,
+                    "overall": 0.3758
+                }
+            },
+            {
+                "job_title": "Clinical Trial Manager (CTM)",
+                "similarity_scores": {
+                    "skills": 0.3846,
+                    "experience": 0.5171,
+                    "projects": 0.0,
+                    "overall": 0.3739
+                }
+            },
+            {
+                "job_title": "Clinical Research Associate (CRA I, II,",
+                "similarity_scores": {
+                    "skills": 0.2711,
+                    "experience": 0.5709,
+                    "projects": 0.0,
+                    "overall": 0.3668
+                }
+            },
+            {
+                "job_title": "Risk-Based Monitoring CRA (RBM",
+                "similarity_scores": {
+                    "skills": 0.35,
+                    "experience": 0.5227,
+                    "projects": 0.0,
+                    "overall": 0.3663
+                }
+            },
+            {
+                "job_title": "Global Clinical Research Associate",
+                "similarity_scores": {
+                    "skills": 0.2632,
+                    "experience": 0.5713,
+                    "projects": 0.0,
+                    "overall": 0.3646
+                }
+            },
+            {
+                "job_title": "GCP Auditor",
+                "similarity_scores": {
+                    "skills": 0.3795,
+                    "experience": 0.4965,
+                    "projects": 0.0,
+                    "overall": 0.3621
+                }
+            },
+            {
+                "job_title": "Pharmacovigilance CRA",
+                "similarity_scores": {
+                    "skills": 0.2701,
+                    "experience": 0.5537,
+                    "projects": 0.0,
+                    "overall": 0.3579
+                }
+            },
+            {
+                "job_title": "CRA Trainer",
+                "similarity_scores": {
+                    "skills": 0.3769,
+                    "experience": 0.4773,
+                    "projects": 0.0,
+                    "overall": 0.3517
+                }
+            },
+            {
+                "job_title": "Clinical Trial Site Manager",
+                "similarity_scores": {
+                    "skills": 0.4127,
+                    "experience": 0.454,
+                    "projects": 0.0,
+                    "overall": 0.3508
+                }
+            },
+            {
+                "job_title": "Hospital Research Coordinator",
+                "similarity_scores": {
+                    "skills": 0.4376,
+                    "experience": 0.4356,
+                    "projects": 0.0,
+                    "overall": 0.3491
+                }
+            },
+            {
+                "job_title": "GCP Compliance Auditor",
+                "similarity_scores": {
+                    "skills": 0.2153,
+                    "experience": 0.5649,
+                    "projects": 0.0,
+                    "overall": 0.3471
+                }
+            },
+            {
+                "job_title": "Regulatory Clinical Research Associate",
+                "similarity_scores": {
+                    "skills": 0.1789,
+                    "experience": 0.5842,
+                    "projects": 0.0,
+                    "overall": 0.3458
+                }
+            },
+            {
+                "job_title": "Remote CRA (Virtual Monitoring)",
+                "similarity_scores": {
+                    "skills": 0.3546,
+                    "experience": 0.4773,
+                    "projects": 0.0,
+                    "overall": 0.345
+                }
+            },
+            {
+                "job_title": "Junior Clinical Research Associate",
+                "similarity_scores": {
+                    "skills": 0.2567,
+                    "experience": 0.5352,
+                    "projects": 0.0,
+                    "overall": 0.3446
+                }
+            },
+            {
+                "job_title": "Clinical Trial Lead (CRA Background)",
+                "similarity_scores": {
+                    "skills": 0.2561,
+                    "experience": 0.5307,
+                    "projects": 0.0,
+                    "overall": 0.3422
+                }
+            },
+            {
+                "job_title": "Clinical Data Associate",
+                "similarity_scores": {
+                    "skills": 0.325,
+                    "experience": 0.4781,
+                    "projects": 0.0,
+                    "overall": 0.3366
+                }
+            },
+            {
+                "job_title": "Infectious Disease Clinical Research",
+                "similarity_scores": {
+                    "skills": 0.2525,
+                    "experience": 0.5198,
+                    "projects": 0.0,
+                    "overall": 0.3356
+                }
+            },
+            {
+                "job_title": "Clinical Quality Assurance Auditor",
+                "similarity_scores": {
+                    "skills": 0.364,
+                    "experience": 0.4403,
+                    "projects": 0.0,
+                    "overall": 0.3293
+                }
+            },
+            {
+                "job_title": "Clinical Trial Auditor (Independent)",
+                "similarity_scores": {
+                    "skills": 0.3612,
+                    "experience": 0.4405,
+                    "projects": 0.0,
+                    "overall": 0.3286
+                }
+            },
+            {
+                "job_title": "Medical Device CRA",
+                "similarity_scores": {
+                    "skills": 0.232,
+                    "experience": 0.4998,
+                    "projects": 0.0,
+                    "overall": 0.3195
+                }
+            },
+            {
+                "job_title": "Bioequivalence (BE) Study Monitor",
+                "similarity_scores": {
+                    "skills": 0.2591,
+                    "experience": 0.4593,
+                    "projects": 0.0,
+                    "overall": 0.3074
+                }
+            },
+            {
+                "job_title": "Clinical Project Manager",
+                "similarity_scores": {
+                    "skills": 0.3235,
+                    "experience": 0.4156,
+                    "projects": 0.0,
+                    "overall": 0.3049
+                }
+            },
+            {
+                "job_title": "Principal CRA",
+                "similarity_scores": {
+                    "skills": 0.1737,
+                    "experience": 0.5041,
+                    "projects": 0.0,
+                    "overall": 0.3042
+                }
+            },
+            {
+                "job_title": "Clinical Research Consultant",
+                "similarity_scores": {
+                    "skills": 0.3009,
+                    "experience": 0.4274,
+                    "projects": 0.0,
+                    "overall": 0.304
+                }
+            },
+            {
+                "job_title": "Cardiology Clinical Research Associate",
+                "similarity_scores": {
+                    "skills": 0.2251,
+                    "experience": 0.4706,
+                    "projects": 0.0,
+                    "overall": 0.3028
+                }
+            },
+            {
+                "job_title": "Neurology Clinical Research Associate",
+                "similarity_scores": {
+                    "skills": 0.2241,
+                    "experience": 0.4708,
+                    "projects": 0.0,
+                    "overall": 0.3026
+                }
+            },
+            {
+                "job_title": "Freelance CRA",
+                "similarity_scores": {
+                    "skills": 0.2825,
+                    "experience": 0.4283,
+                    "projects": 0.0,
+                    "overall": 0.2989
+                }
+            },
+            {
+                "job_title": "Director of Clinical Operations",
+                "similarity_scores": {
+                    "skills": 0.2701,
+                    "experience": 0.4349,
+                    "projects": 0.0,
+                    "overall": 0.2985
+                }
+            },
+            {
+                "job_title": "Ethics Committee Coordinator",
+                "similarity_scores": {
+                    "skills": 0.2385,
+                    "experience": 0.4525,
+                    "projects": 0.0,
+                    "overall": 0.2978
+                }
+            },
+            {
+                "job_title": "Investigator Site Manager",
+                "similarity_scores": {
+                    "skills": 0.2996,
+                    "experience": 0.4147,
+                    "projects": 0.0,
+                    "overall": 0.2972
+                }
+            },
+            {
+                "job_title": "Vaccine Clinical Research Associate",
+                "similarity_scores": {
+                    "skills": 0.1588,
+                    "experience": 0.4946,
+                    "projects": 0.0,
+                    "overall": 0.2949
+                }
+            },
+            {
+                "job_title": "Sponsor-Dedicated CRA",
+                "similarity_scores": {
+                    "skills": 0.1465,
+                    "experience": 0.5011,
+                    "projects": 0.0,
+                    "overall": 0.2945
+                }
+            },
+            {
+                "job_title": "Site Monitor / Clinical Monitor",
+                "similarity_scores": {
+                    "skills": 0.292,
+                    "experience": 0.4107,
+                    "projects": 0.0,
+                    "overall": 0.2929
+                }
+            },
+            {
+                "job_title": "Head of Clinical Research",
+                "similarity_scores": {
+                    "skills": 0.2761,
+                    "experience": 0.42,
+                    "projects": 0.0,
+                    "overall": 0.2928
+                }
+            },
+            {
+                "job_title": "Clinical Compliance Manager",
+                "similarity_scores": {
+                    "skills": 0.2452,
+                    "experience": 0.4368,
+                    "projects": 0.0,
+                    "overall": 0.292
+                }
+            },
+            {
+                "job_title": "Monitoring Team Lead",
+                "similarity_scores": {
+                    "skills": 0.2647,
+                    "experience": 0.4249,
+                    "projects": 0.0,
+                    "overall": 0.2919
+                }
+            },
+            {
+                "job_title": "Regulatory Affairs Assistant",
+                "similarity_scores": {
+                    "skills": 0.1405,
+                    "experience": 0.4904,
+                    "projects": 0.0,
+                    "overall": 0.2874
+                }
+            },
+            {
+                "job_title": "Pharmacovigilance Associate",
+                "similarity_scores": {
+                    "skills": 0.2914,
+                    "experience": 0.394,
+                    "projects": 0.0,
+                    "overall": 0.2844
+                }
+            },
+            {
+                "job_title": "Field Clinical Research Associate",
+                "similarity_scores": {
+                    "skills": 0.1626,
+                    "experience": 0.469,
+                    "projects": 0.0,
+                    "overall": 0.2833
+                }
+            },
+            {
+                "job_title": "AI-Driven Trial Monitoring Specialist",
+                "similarity_scores": {
+                    "skills": 0.4244,
+                    "experience": 0.3087,
+                    "projects": 0.0,
+                    "overall": 0.2817
+                }
+            },
+            {
+                "job_title": "Regulatory Affairs Specialist (Clinical",
+                "similarity_scores": {
+                    "skills": 0.2278,
+                    "experience": 0.4119,
+                    "projects": 0.0,
+                    "overall": 0.2743
+                }
+            },
+            {
+                "job_title": "Regional Clinical Research Associate",
+                "similarity_scores": {
+                    "skills": 0.0562,
+                    "experience": 0.4927,
+                    "projects": 0.0,
+                    "overall": 0.2632
+                }
+            },
+            {
+                "job_title": "Site Management Associate (SMA)",
+                "similarity_scores": {
+                    "skills": 0.0827,
+                    "experience": 0.4575,
+                    "projects": 0.0,
+                    "overall": 0.2536
+                }
+            },
+            {
+                "job_title": "Clinical Quality Manager",
+                "similarity_scores": {
+                    "skills": 0.2626,
+                    "experience": 0.3455,
+                    "projects": 0.0,
+                    "overall": 0.2515
+                }
+            },
+            {
+                "job_title": "eClinical Systems Specialist",
+                "similarity_scores": {
+                    "skills": 0.3155,
+                    "experience": 0.3118,
+                    "projects": 0.0,
+                    "overall": 0.2506
+                }
+            },
+            {
+                "job_title": "Lead Clinical Research Associate (Lead",
+                "similarity_scores": {
+                    "skills": 0.21,
+                    "experience": 0.3748,
+                    "projects": 0.0,
+                    "overall": 0.2504
+                }
+            },
+            {
+                "job_title": "Project CRA",
+                "similarity_scores": {
+                    "skills": 0.2255,
+                    "experience": 0.355,
+                    "projects": 0.0,
+                    "overall": 0.2452
+                }
+            },
+            {
+                "job_title": "Program Manager (Clinical Research)",
+                "similarity_scores": {
+                    "skills": 0.2935,
+                    "experience": 0.3087,
+                    "projects": 0.0,
+                    "overall": 0.2424
+                }
+            },
+            {
+                "job_title": "In-House Clinical Research Associate",
+                "similarity_scores": {
+                    "skills": 0.0836,
+                    "experience": 0.4325,
+                    "projects": 0.0,
+                    "overall": 0.2413
+                }
+            },
+            {
+                "job_title": "Research Methodology Trainer",
+                "similarity_scores": {
+                    "skills": 0.2653,
+                    "experience": 0.3194,
+                    "projects": 0.0,
+                    "overall": 0.2393
+                }
+            },
+            {
+                "job_title": "Inspection Readiness Specialist",
+                "similarity_scores": {
+                    "skills": 0.1992,
+                    "experience": 0.3549,
+                    "projects": 0.0,
+                    "overall": 0.2372
+                }
+            }
+        ]
+    },
+    "Personal-trainer-resume-example-3": {
+        "top_matches": [
+            {
+                "job_title": "CRA Trainer",
+                "similarity_scores": {
+                    "skills": 0.3517,
+                    "experience": 0.243,
+                    "projects": 0.0,
+                    "overall": 0.227
+                }
+            }
+        ]
+    },
+    "Sample_resume2": {
+        "top_matches": []
+    },
+    "sample_resume": {
+        "top_matches": []
+    },
+    "Sydney-Resume-Template-Modern": {
+        "top_matches": []
+    }
+}

@@ -1,0 +1,20 @@
+AI-Driven Trial Monitoring Specialist
+Job Summary
+An AI-Driven Trial Monitoring Specialist uses artificial intelligence and advanced analytics
+to optimize clinical trial monitoring and decision-making.
+Key Responsibilities
+• Implement AI tools for trial monitoring and risk prediction
+• Analyze large datasets for patterns and anomalies
+• Automate monitoring workflows
+• Support predictive analytics for patient recruitment and retention
+• Collaborate with data science and clinical teams
+Qualifications
+• Life Sciences + Data Science / AI background
+Skills
+• AI/ML tools and analytics
+• Data modeling
+• Programming (Python/R preferred)
+Work Environment
+• Pharma companies, CROs, AI healthcare startups
+Career Path
+AI Specialist → Clinical Data Scientist → Digital Health Leader

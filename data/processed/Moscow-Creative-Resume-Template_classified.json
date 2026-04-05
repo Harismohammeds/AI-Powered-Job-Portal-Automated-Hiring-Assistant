@@ -1,0 +1,116 @@
+{
+    "profile": "1515 Pacific Ave, Los Angeles, CA 90291, United States (541) 754 3010 \u00b7 email@email.com MICHELLE LOPEZ, Fashion Designer Expert Fashion Designer with 11+ years\u2019",
+    "experience": "in women\u2019s high end shoes. Launched product lines for Chanel and Gucci. Designs showcased in Elle and Vogue. Attained recognition of top seller fashionista in 2017. Details Nationality American Driving license Full Place of birth San Antonio Employment History Senior Fashion Designer at Escada, Milan January 2017 \u2014 July 2021 Functioned as the lead designer for the 2019 women\u2019s winter collection team and supervised seasonal conceptualization and design of women\u2019s accessories, which included belts and bags. Designed attractive fashion items that coincided with the brand\u2019s look. Ran the whole product design process, from primary market research, mood board development to sketching and design to producing the finished product. Contributed to the conceptual development of directional product lines, which included delivering original concept pitches. Supervised technical designs of all products from concept design to manufacturing, including trim and fabric selection, meeting and choosing from vendors, etc. Associate Fashion Designer at Dior Homme, New York January 2014 \u2014 December 2018 Produced commercial designs are reflecting the abstract direction and business strategy of the company. Created seasonal products which focused on style, fabric, and fit. Leveraged processes to predict customers\u2019 needs in order to surpass customer expectations and react punctually to their requirements. Developed and upheld effective relations with eight vital partners. Worked together and followed up with vendors regarding deliverables and main partners throughout the whole design process, including preproduction, merchandising, and product development.",
+    "education": "Bachelor of Arts in Fashion Design, University of Illinois , Chicago July 2019 \u2014 Present 2nd place for Best Uniform Design at the Yearly Gallant Show for 2014 Major subjects included Design Theory CAD and advanced level Dissertation on topic \u201cEvolution of faux leather and high ankle boots.\u201d Designed clothesline for university sports personnel Adobe Certified Expert, Adobe, Online July 2021 \u2014 Present Course Topics: Illustrator & Photoshop Associates Degree in Fashion Design, University of Southern California, San Jacinto January 2015 \u2014 June 2017 Links LinkedIn Pinterest Resume Templates Build this template",
+    "skills": "Adobe Illustrator Fashion Design Hand Drafting Design Patterns Fabric Accomplishments Developed a men\u2019s winter collection renowned by Vogue\u2019s and Marie Claire\u2019s editorial teams for its Art Nouveau style. The collection became a commercial success, boosting sales numbers by 46%. Created a highly admired women\u2019s summer collection that increased revenue by 38% compared to last year. Managed a team of 6 designers to create 155 SKUs each month for a children\u2019s apparel company. Enhanced the company\u2019s main designing platform from 6 to 4, resulting in costs savings of $67,000 per SKU due to scale efficiencies. Hobbies Art, Rugby, Cricket Languages English Native speaker Italian Native speaker",
+    "extracted_skills": [
+        {
+            "skill": "Adobe Illustrator",
+            "category": "creative",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Fabric",
+            "category": "creative",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Fashion Design",
+            "category": "creative",
+            "confidence": 1.0,
+            "match_type": "synonym"
+        },
+        {
+            "skill": "Hand Drafting",
+            "category": "creative",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "React",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Sales",
+            "category": "business",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Adobe Photoshop",
+            "category": "creative",
+            "confidence": 0.85,
+            "match_type": "synonym"
+        }
+    ],
+    "structured_experience": [
+        {
+            "start_date": "2014",
+            "end_date": "December 2018",
+            "is_current": false,
+            "duration_months": 59,
+            "company": "etc. Associate Fashion Designer at Dior Homme",
+            "title": "meeting and choosing from vendors"
+        }
+    ],
+    "experience_metrics": {
+        "total_experience_months": 59,
+        "total_experience_years": 4.9,
+        "gaps_detected": [],
+        "overlaps_detected": []
+    },
+    "experience_relevance": {
+        "total_relevance_score": 0.0,
+        "relevant_experience_months": 0,
+        "matching_roles": [],
+        "target_role_assumed": "Personal Trainer"
+    },
+    "extracted_skills_normalized": [
+        {
+            "skill": "Adobe Illustrator",
+            "category": "creative",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Fabric",
+            "category": "creative",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Fashion Design",
+            "category": "creative",
+            "confidence": 1.0,
+            "match_type": "synonym"
+        },
+        {
+            "skill": "Hand Drafting",
+            "category": "creative",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Sales",
+            "category": "business",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "React",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Adobe Photoshop",
+            "category": "creative",
+            "confidence": 0.85,
+            "match_type": "synonym"
+        }
+    ]
+}

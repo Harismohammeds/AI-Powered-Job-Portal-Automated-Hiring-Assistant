@@ -1,0 +1,94 @@
+{
+    "profile": "Charly Dolman Personal Trainer 9 Wall St, New York, 10005, USA 890 555 0401 \u00b7 email@email.com Make this resume:, Resume Templates:, Profile Build this resume: High energy Personal Trainer with 8 years",
+    "experience": "in personal and group fitness. Proven track record in motivating clients to safely achieve weight loss Date / Place of birth goals through detailed and effective diet plans. Certified ACE Instructor with CPR 1989/20/03, New York training and a talent for developing fitness programs that exceed revenue targets and increase memberships. Nationality American Employment History Personal Trainer, Blink Fitness, New York Driving license October 2023 \u2014 Present Full Blink Fitness is an inclusive fitness brand with state of the art gyms in more than",
+    "education": "Bachelor's Degree in Kinesiology, Syracuse University June 2018 \u2014 January 2021 Certification in First Aid and CPR November 2022 ACE Certified Group Fitness Instructor March 2020 ACE Certified Personal Trainer January 2019",
+    "skills": "90 locations across the US. As the Personal Trainer, my core activities include: Knowledge in Nutrition Preparing comprehensive diet plans based on clients\u2019 weight and health goals. Proficient at sales Assisting with marketing efforts to retain existing clients. Leading fitness groups of 10 20 clients three times per week. Self motivated Developing new fitness workshops. Increased new memberships by 32% by Organized end of 2017. Tracking client progress using specialized software to generate accurate Energetic and upbeat reports. Effective communicator Personal Trainer, Astor Place, New York April 2022 \u2014 September 2024 NYSC Flagship Astor Place is a high end health club in New York. As the Personal Trainer, my core activities included: Designing and implementing tailored fitness programs for upscale clients. Training 70 clients per month where 85% reached their fitness goals within six weeks. Advising individual clients on health, nutrition, and lifestyle changes. Providing clients with safe and effective exercises they can perform at home. Demonstrating exercises for all clients to ensure proper technique. Personal Fitness Trainer, Crunch Fitness, New York February 2021 \u2014 March 2022 Crunch is a health club chain that leads the industry in fusing fitness and entertainment. As the Personal Trainer, my core activities included: Designing one on one nutritional plans for clients. More than 87% achieved their weight loss goals. Introducing new gym members to personal training packages and conducting tours of the health club. Ensuring proper use and cleanliness of gym equipment. Participating in PT Department meetings and promotional events.",
+    "extracted_skills": [
+        {
+            "skill": "CPR",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "First Aid",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Nutrition",
+            "category": "fitness",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Personal Training",
+            "category": "fitness",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Sales",
+            "category": "business",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        }
+    ],
+    "structured_experience": [
+        {
+            "start_date": "2023",
+            "end_date": "Present",
+            "is_current": true,
+            "duration_months": 38,
+            "company": "Blink Fitness",
+            "title": "American Employment History Personal Trainer"
+        }
+    ],
+    "experience_metrics": {
+        "total_experience_months": 38,
+        "total_experience_years": 3.2,
+        "gaps_detected": [],
+        "overlaps_detected": []
+    },
+    "experience_relevance": {
+        "total_relevance_score": 1.0,
+        "relevant_experience_months": 38,
+        "matching_roles": [
+            "American Employment History Personal Trainer"
+        ],
+        "target_role_assumed": "Personal Trainer"
+    },
+    "extracted_skills_normalized": [
+        {
+            "skill": "Nutrition",
+            "category": "fitness",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Personal Training",
+            "category": "fitness",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Sales",
+            "category": "business",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "CPR",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "First Aid",
+            "category": "medical",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        }
+    ]
+}

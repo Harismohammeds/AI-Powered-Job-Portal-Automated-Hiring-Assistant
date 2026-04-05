@@ -1,0 +1,193 @@
+{
+    "Haris_Resume2.pdf": {
+        "academic_profile": [
+            {
+                "degree": "Associate",
+                "field_of_study": null,
+                "institution": null,
+                "graduation_year": null,
+                "raw_text": "\u2022 Built and evaluated machine learning models using algorithms such as Linear Regression,"
+            },
+            {
+                "degree": "Bachelor",
+                "field_of_study": null,
+                "institution": null,
+                "graduation_year": null,
+                "raw_text": "BSc Computer Science"
+            }
+        ],
+        "certifications": [
+            {
+                "certification_name": "Professional Certificate in Data Science  AI  Scope India, Technopark Trivandrum",
+                "category": "General/Other"
+            },
+            {
+                "certification_name": "CERTIFICATIONS",
+                "category": "General/Other"
+            }
+        ],
+        "education_relevance_score": 0.45,
+        "target_role_assumed": "Data Analyst"
+    },
+    "Moscow-Creative-Resume-Template.pdf": {
+        "academic_profile": [
+            {
+                "degree": "Associate",
+                "field_of_study": null,
+                "institution": null,
+                "graduation_year": "2019",
+                "raw_text": "Functioned as the lead designer for the 2019 women\u2019s winter collection team and supervised"
+            },
+            {
+                "degree": "Associate",
+                "field_of_study": null,
+                "institution": null,
+                "graduation_year": "2018",
+                "raw_text": "Associate Fashion Designer at Dior Homme, New York"
+            },
+            {
+                "degree": "Bachelor",
+                "field_of_study": "Fashion Design",
+                "institution": "University of Illinois",
+                "graduation_year": "2019",
+                "raw_text": "Education       Bachelor of Arts in Fashion Design, University of Illinois , Chicago"
+            },
+            {
+                "degree": "Associate",
+                "field_of_study": "Fashion Design",
+                "institution": "University of Southern",
+                "graduation_year": null,
+                "raw_text": "Associates Degree in Fashion Design, University of Southern California,"
+            }
+        ],
+        "certifications": [
+            {
+                "certification_name": "Adobe Certified Expert, Adobe, Online",
+                "category": "General/Other"
+            }
+        ],
+        "education_relevance_score": 1.0,
+        "target_role_assumed": "Personal Trainer"
+    },
+    "Personal-trainer-resume-example-3.pdf": {
+        "academic_profile": [
+            {
+                "degree": "Associate",
+                "field_of_study": null,
+                "institution": null,
+                "graduation_year": null,
+                "raw_text": "Skills                   90 locations across the US. As the Personal Trainer, my core activities include:"
+            },
+            {
+                "degree": "Bachelor",
+                "field_of_study": null,
+                "institution": "Syracuse University",
+                "graduation_year": null,
+                "raw_text": "Bachelor's Degree in Kinesiology, Syracuse University"
+            }
+        ],
+        "certifications": [
+            {
+                "certification_name": "goals through detailed and effective diet plans. Certified ACE Instructor with CPR",
+                "category": "Healthcare"
+            },
+            {
+                "certification_name": "ACE Certified Group Fitness Instructor",
+                "category": "Fitness"
+            },
+            {
+                "certification_name": "Certification in First Aid and CPR",
+                "category": "Healthcare"
+            },
+            {
+                "certification_name": "ACE Certified Personal Trainer",
+                "category": "Fitness"
+            }
+        ],
+        "education_relevance_score": 0.45,
+        "target_role_assumed": "Personal Trainer"
+    },
+    "sample_resume.docx": {
+        "academic_profile": [],
+        "certifications": [],
+        "education_relevance_score": 0.0,
+        "target_role_assumed": "Personal Trainer"
+    },
+    "Sample_resume.pdf": {
+        "academic_profile": [
+            {
+                "degree": "Bachelor",
+                "field_of_study": null,
+                "institution": null,
+                "graduation_year": null,
+                "raw_text": "Bachelors of Science in Nursing"
+            }
+        ],
+        "certifications": [],
+        "education_relevance_score": 0.3,
+        "target_role_assumed": "Personal Trainer"
+    },
+    "Sample_resume2.pdf": {
+        "academic_profile": [
+            {
+                "degree": "Associate",
+                "field_of_study": null,
+                "institution": "Bellows College",
+                "graduation_year": null,
+                "raw_text": "Aug 20XX \u2014 May 20XX | Associates in Phlebotomy"
+            },
+            {
+                "degree": "Associate",
+                "field_of_study": null,
+                "institution": null,
+                "graduation_year": null,
+                "raw_text": "Medical Law and Ethics as part of associate degree in Phlebotomy program."
+            }
+        ],
+        "certifications": [
+            {
+                "certification_name": "to detail. Successfully completed certification in phlebotomy from a national health",
+                "category": "General/Other"
+            }
+        ],
+        "education_relevance_score": 0.3,
+        "target_role_assumed": "Personal Trainer"
+    },
+    "Sydney-Resume-Template-Modern.pdf": {
+        "academic_profile": [
+            {
+                "degree": "Bachelor",
+                "field_of_study": null,
+                "institution": null,
+                "graduation_year": null,
+                "raw_text": "Responsible for organizing and preparing visual and audio equipment to be used on video Call Sheets & Sides"
+            },
+            {
+                "degree": "Associate",
+                "field_of_study": null,
+                "institution": null,
+                "graduation_year": null,
+                "raw_text": "projects for clients such as Pfizer, Knoll Pharmaceuticals, and Merck."
+            },
+            {
+                "degree": "Bachelor",
+                "field_of_study": "Film and Television",
+                "institution": "Boston University",
+                "graduation_year": "2021",
+                "raw_text": "BA in Film and Television, Boston University, Boston"
+            }
+        ],
+        "certifications": [
+            {
+                "certification_name": "Hootsuite Certified Professional, Hootsuite Media, Albany, NY",
+                "category": "General/Other"
+            },
+            {
+                "certification_name": "Adobe CS5 Certified,, University of Delaware, Newark, DE.",
+                "category": "General/Other"
+            }
+        ],
+        "education_relevance_score": 0.95,
+        "target_role_assumed": "Personal Trainer"
+    }
+}

@@ -1,0 +1,236 @@
+[
+    {
+        "id": "Haris_Resume2.pdf",
+        "skills": [
+            {
+                "skill name": "CSS",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Data Analysis",
+                "confidence_score": 1.0,
+                "source": "synonym"
+            },
+            {
+                "skill name": "Django",
+                "confidence_score": 1.0,
+                "source": "synonym"
+            },
+            {
+                "skill name": "HTML",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "JavaScript",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Machine Learning",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Matplotlib",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "NumPy",
+                "confidence_score": 1.0,
+                "source": "synonym"
+            },
+            {
+                "skill name": "Pandas",
+                "confidence_score": 1.0,
+                "source": "synonym"
+            },
+            {
+                "skill name": "Power BI",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Python",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "SQL",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Seaborn",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Tableau",
+                "confidence_score": 1.0,
+                "source": "synonym"
+            },
+            {
+                "skill name": "Adobe Illustrator",
+                "confidence_score": 0.85,
+                "source": "synonym"
+            }
+        ]
+    },
+    {
+        "id": "Moscow-Creative-Resume-Template.pdf",
+        "skills": [
+            {
+                "skill name": "Adobe Illustrator",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Fabric",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Fashion Design",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Hand Drafting",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "React",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Sales",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Adobe Photoshop",
+                "confidence_score": 0.85,
+                "source": "synonym"
+            }
+        ]
+    },
+    {
+        "id": "Personal-trainer-resume-example-3.pdf",
+        "skills": [
+            {
+                "skill name": "CPR",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "First Aid",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Nutrition",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Personal Training",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Sales",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            }
+        ]
+    },
+    {
+        "id": "sample_resume.docx",
+        "skills": [
+            {
+                "skill name": "Computer Vision",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "NLP",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "PyTorch",
+                "confidence_score": 1.0,
+                "source": "synonym"
+            },
+            {
+                "skill name": "Python",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "TensorFlow",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Adobe Illustrator",
+                "confidence_score": 0.85,
+                "source": "synonym"
+            }
+        ]
+    },
+    {
+        "id": "Sample_resume.pdf",
+        "skills": [
+            {
+                "skill name": "Anatomy",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Nursing",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Pharmacology",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Physiology",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            }
+        ]
+    },
+    {
+        "id": "Sample_resume2.pdf",
+        "skills": [
+            {
+                "skill name": "Medical Terminology",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Phlebotomy",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            },
+            {
+                "skill name": "Venipuncture",
+                "confidence_score": 1.0,
+                "source": "canonical"
+            }
+        ]
+    },
+    {
+        "id": "Sydney-Resume-Template-Modern.pdf",
+        "skills": []
+    }
+]

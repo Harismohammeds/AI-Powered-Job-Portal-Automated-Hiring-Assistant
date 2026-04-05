@@ -112,6 +112,9 @@ def extract_job_title(section):
     match = re.search(r'^\d+\.\s*(.*?)(?:\n|$)', section)
     if match:
         return match.group(1).strip()
+    for line in section.strip().split('\n'):
+        if line.strip():
+            return line.strip()
     return "Unknown Title"
 
 def extract_skills(section):
@@ -275,35 +278,41 @@ def save_each_job_to_file(jd_objects, output_dir):
     print(f"Saved {len(jd_objects)} jobs to {output_dir}")
 
 def main():
-    input_file = r'c:\Users\LOQ\OneDrive\Desktop\Zecpath_AI\data\jobs_data.txt\1. Clinical Trial Assistant (CTA).txt'
+    jds_txt_dir = r'c:\Users\LOQ\OneDrive\Desktop\Zecpath_AI\jds_txt'
     output_dir = r'c:\Users\LOQ\OneDrive\Desktop\Zecpath_AI\output\jd_files'
     combined_file = r'c:\Users\LOQ\OneDrive\Desktop\Zecpath_AI\output\jd_parsed_output.json'
     
-    if not os.path.exists(input_file):
-        print(f"Input file not found: {input_file}")
-        return
-
-    with open(input_file, 'r', encoding='utf-8') as f:
-        content = f.read()
-        
-    # Split content by job number patterns (e.g., "2. Clinical Research Coordinator")
-    # We use a lookahead to split before the next number at start of line
-    jobs_raw = re.split(r'\n(?=\d+\.\s)', content)
-    
     parsed_jobs = []
-    for job_raw in jobs_raw:
-        if job_raw.strip():
-            jd_obj = build_jd_object(job_raw)
-            if jd_obj["job_title"] != "Unknown Title":
-                parsed_jobs.append(jd_obj)
-                
-    # Save individual files
-    save_each_job_to_file(parsed_jobs, output_dir)
     
-    # Save combined file
-    with open(combined_file, 'w', encoding='utf-8') as f:
-        json.dump(parsed_jobs, f, indent=2, ensure_ascii=False)
-        print(f"Saved combined output to {combined_file}")
+    if os.path.exists(jds_txt_dir):
+        # Determine the number of txt files to sort correctly
+        txt_files = [f for f in os.listdir(jds_txt_dir) if f.startswith('jd_') and f.endswith('.txt')]
+        
+        def extract_num(filename):
+            match = re.search(r'jd_(\d+)\.txt', filename)
+            return int(match.group(1)) if match else 0
+            
+        txt_files.sort(key=extract_num)
+        
+        for filename in txt_files:
+            file_path = os.path.join(jds_txt_dir, filename)
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+                if content.strip():
+                    jd_obj = build_jd_object(content)
+                    if jd_obj["job_title"] != "Unknown Title":
+                        parsed_jobs.append(jd_obj)
+                        
+    # Save individual files
+    if parsed_jobs:
+        save_each_job_to_file(parsed_jobs, output_dir)
+        
+        # Save combined file
+        with open(combined_file, 'w', encoding='utf-8') as f:
+            json.dump(parsed_jobs, f, indent=2, ensure_ascii=False)
+            print(f"Saved combined output to {combined_file}")
+    else:
+        print("No jobs parsed from jds_txt")
 
 if __name__ == "__main__":
     main()

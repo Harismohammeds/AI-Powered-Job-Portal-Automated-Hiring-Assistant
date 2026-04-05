@@ -68,6 +68,8 @@ class SkillExtractor:
             return 0.95
         elif match_type == 'synonym':
             return 0.85
+        elif match_type == 'spelling_variation':
+            return 0.60
         return 0.70
 
     def extract_skills(self, text: str, section_context: str = "general") -> list:
@@ -75,8 +77,11 @@ class SkillExtractor:
         Extract normalized skills from text using NLP PhraseMatcher. 
         Apply context boost if section is 'skills'.
         """
+        import difflib
         extracted = {}
         
+        words = set(re.findall(r'\b[\w\.\+#]+\b', text.lower()))
+
         if self.nlp:
             doc = self.nlp(text)
             matches = self.matcher(doc)
@@ -98,11 +103,11 @@ class SkillExtractor:
                         self._insert_extracted(extracted, canonical, confidence, match_type)
         else:
             # Basic fallback if spacy not available
-            words = re.findall(r'\b[\w\.\+#]+\b', text.lower())
-            for i in range(len(words)):
+            idx_words = re.findall(r'\b[\w\.\+#]+\b', text.lower())
+            for i in range(len(idx_words)):
                 for j in range(1, 4):
-                    if i + j > len(words): break
-                    phrase = " ".join(words[i:i+j])
+                    if i + j > len(idx_words): break
+                    phrase = " ".join(idx_words[i:i+j])
                     if phrase in self.canonical_map:
                         canonical, match_type = self.canonical_map[phrase]
                         confidence = self._get_base_confidence(match_type)
@@ -113,6 +118,26 @@ class SkillExtractor:
                                 self._insert_extracted(extracted, stack_skill, confidence, "stack_expansion")
                         else:
                             self._insert_extracted(extracted, canonical, confidence, match_type)
+
+        # Spelling variations fallback for unmatched words
+        all_canonical_phrases = list(self.canonical_map.keys())
+        for word in words:
+            if word not in self.canonical_map and len(word) >= 4:
+                # Find close matches using difflib
+                matches = difflib.get_close_matches(word, all_canonical_phrases, n=1, cutoff=0.85)
+                if matches:
+                    matched_phrase = matches[0]
+                    # Heuristic: if word is short and matched phrase is long, or vice versa, skip
+                    if abs(len(word) - len(matched_phrase)) > 3:
+                        continue
+                        
+                    canonical, _ = self.canonical_map[matched_phrase]
+                    # We check if it hasn't been extracted with higher confidence
+                    if canonical not in extracted:
+                        confidence = self._get_base_confidence('spelling_variation')
+                        if section_context.lower() == 'skills':
+                            confidence = min(1.0, confidence + 0.15)
+                        self._insert_extracted(extracted, canonical, confidence, 'spelling_variation')
 
         sorted_skills = sorted(extracted.values(), key=lambda x: (-x['confidence'], x['skill']))
         return sorted_skills

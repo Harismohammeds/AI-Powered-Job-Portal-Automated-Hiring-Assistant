@@ -6,12 +6,30 @@
     "skills": ". INTERNSHIP /\nProgramming Languages : Python, Html, Css, JavaScript Data Analytics Tools : Pandas, NumPy, Scikit learn Data Science : Machine Learning Python Frameworks : Django Database : Sql(Mysql, Sqlite) Data Visualisation : Power BI, Tableau, Matplotlib, Seaborn",
     "certifications": "Professional Certificate in Data Science & AI \u2013 Scope India, Technopark Trivandrum Declaration I hereby declare that the information furnished above is true and correct to the best of my knowledge and belief. Haris Mohammed",
     "projects": ", including data collection, feature engineering, model training, and performance evaluation. Collaborated with team members to interpret results and improve model accuracy and efficiency\nMajor Project \u2013 Forensic AI (2024\u20132025) Developed an AI based forensic analysis system Used Python for data processing and analysis Focused on pattern detection and investigation support",
-    "extracted_skills_normalized": [
+    "extracted_skills": [
+        {
+            "skill": "CSS",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
         {
             "skill": "Data Analysis",
             "category": "business",
             "confidence": 1.0,
             "match_type": "synonym"
+        },
+        {
+            "skill": "Django",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "synonym"
+        },
+        {
+            "skill": "HTML",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
         },
         {
             "skill": "JavaScript",
@@ -21,6 +39,30 @@
         },
         {
             "skill": "Machine Learning",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Matplotlib",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "NumPy",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "synonym"
+        },
+        {
+            "skill": "Pandas",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "synonym"
+        },
+        {
+            "skill": "Power BI",
             "category": "tech",
             "confidence": 1.0,
             "match_type": "canonical"
@@ -36,6 +78,129 @@
             "category": "tech",
             "confidence": 1.0,
             "match_type": "canonical"
+        },
+        {
+            "skill": "Seaborn",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Tableau",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "synonym"
+        },
+        {
+            "skill": "Adobe Illustrator",
+            "category": "creative",
+            "confidence": 0.85,
+            "match_type": "synonym"
+        }
+    ],
+    "structured_experience": [],
+    "experience_metrics": {
+        "total_experience_months": 0,
+        "total_experience_years": 0.0,
+        "gaps_detected": [],
+        "overlaps_detected": []
+    },
+    "experience_relevance": {
+        "total_relevance_score": 0.0,
+        "relevant_experience_months": 0,
+        "matching_roles": [],
+        "target_role_assumed": "Data Analyst"
+    },
+    "extracted_skills_normalized": [
+        {
+            "skill": "CSS",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Data Analysis",
+            "category": "business",
+            "confidence": 1.0,
+            "match_type": "synonym"
+        },
+        {
+            "skill": "Django",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "synonym"
+        },
+        {
+            "skill": "HTML",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "JavaScript",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Machine Learning",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Matplotlib",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "NumPy",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "synonym"
+        },
+        {
+            "skill": "Pandas",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "synonym"
+        },
+        {
+            "skill": "Power BI",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Python",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "SQL",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Seaborn",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "canonical"
+        },
+        {
+            "skill": "Tableau",
+            "category": "tech",
+            "confidence": 1.0,
+            "match_type": "synonym"
+        },
+        {
+            "skill": "Adobe Illustrator",
+            "category": "creative",
+            "confidence": 0.85,
+            "match_type": "synonym"
         }
     ]
 }
